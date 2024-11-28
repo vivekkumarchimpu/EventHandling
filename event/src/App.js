@@ -1,10 +1,13 @@
 import React from 'react';
 import './App.css';
+import ButtonHandling from './components/ButtonHandling';
+import PropsHandling from './components/PropsHandling';
 
 function App() {
   return (
     <>
-      <h1>hello</h1>
+      <ButtonHandling />
+      <PropsHandling />
     </>
   );
 }

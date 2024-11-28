@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.mainbox{
+  width: 500px;
+  height: 200px;
+  background-color: #cca0a0;
+  margin-left: 500px;
+  margin-top: 20px;
+}
+.btn1{
+  margin-left: 200px;
+}
