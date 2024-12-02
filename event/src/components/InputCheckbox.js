@@ -11,6 +11,7 @@ function InputCheckbox() {
     return (
         <>
             <div className='mainbox'>
+                <h2>InputCheckbox</h2>
                 <ul>
                     <li><input type='checkbox' name='first' value={"first"} onClick={clickHandling} /><span>Select first</span></li>
                     <li><input type='checkbox' name='second' value={"second"} onClick={clickHandling} /><span>Select second</span></li>

@@ -3,6 +3,8 @@ import './App.css';
 import ButtonHandling from './components/ButtonHandling';
 import PropsHandling from './components/PropsHandling';
 import InputCheckbox from './components/InputCheckbox';
+import InputDropdown from './components/InputDropdown';
+import InputRadiobutton from './components/InputRadiobutton';
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <ButtonHandling />
       <PropsHandling />
       <InputCheckbox />
+      <InputDropdown />
+      <InputRadiobutton />
     </>
   );
 }
