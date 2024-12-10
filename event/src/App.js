@@ -5,6 +5,7 @@ import PropsHandling from './components/PropsHandling';
 import InputCheckbox from './components/InputCheckbox';
 import InputDropdown from './components/InputDropdown';
 import InputRadiobutton from './components/InputRadiobutton';
+import FormSubmit from './components/FormSubmit';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <InputCheckbox />
       <InputDropdown />
       <InputRadiobutton />
+      <FormSubmit />
     </>
   );
 }
