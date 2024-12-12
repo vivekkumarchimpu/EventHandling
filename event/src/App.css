@@ -46,3 +46,17 @@
 .btn1{
   margin-left: 200px;
 }
+.container{
+ background-color: #dabbbb;
+ height: 600px;
+}
+.navbar{
+  background-color: #dabbbb;
+  padding-left: 20px;
+  height: 30px;
+  text-decoration: none;
+}
+.topheading{
+  background-color: #819ed8;
+  height: 100px;
+}
